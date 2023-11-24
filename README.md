@@ -1,4 +1,2 @@
-# Sorting-Algorithms
+# Algos, Tricks, Templates, Python Syntax, Object Oriented Design
 
-
-These are just some sorting algos I find to be helpful for technical interviews.
